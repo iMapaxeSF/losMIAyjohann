@@ -1,0 +1,1163 @@
+[08Feb2026 00:09:02.428] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[08Feb2026 00:09:02.434] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.29 by Ubuntu
+[08Feb2026 00:09:02.722] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[08Feb2026 00:09:02.924] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[08Feb2026 00:09:03.034] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/losMIAyjohann/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[08Feb2026 00:09:04.105] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.283] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.297] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.315] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.334] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.361] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.400] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.424] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.429] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.444] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.454] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.467] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.483] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.490] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.497] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.508] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.522] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:04.531] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Feb2026 00:09:08.785] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[08Feb2026 00:09:08.911] [main/ERROR] [mixin/]: Mixin config responsiveshields.mixin.json does not specify "minVersion" property
+[08Feb2026 00:09:09.034] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.performant.coremod.mixin.Connector]
+[08Feb2026 00:09:09.038] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[08Feb2026 00:09:09.080] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 80 options available, 10 override(s) found
+[08Feb2026 00:09:09.122] [main/INFO] [opotato/]: Mod Artifacts-1.16.5-2.10.6.jar loaded!
+[08Feb2026 00:09:09.125] [main/INFO] [opotato/]: Mod Atlas-Lib-1.16.5-1.1.3c.jar loaded!
+[08Feb2026 00:09:09.125] [main/INFO] [opotato/]: Mod BeeFix-1.16.2-1.0.7.jar loaded!
+[08Feb2026 00:09:09.126] [main/INFO] [opotato/]: Mod CosmeticArmorReworked-1.16.5-v5a.jar loaded!
+[08Feb2026 00:09:09.126] [main/INFO] [opotato/]: Mod CreativeCore_v2.2.1_mc1.16.5.jar loaded!
+[08Feb2026 00:09:09.126] [main/INFO] [opotato/]: Mod FastSuite-1.16.4-1.1.1.jar loaded!
+[08Feb2026 00:09:09.128] [main/INFO] [opotato/]: Mod FpsReducer-forge-1.24-mc1.16.5.jar loaded!
+[08Feb2026 00:09:09.128] [main/INFO] [opotato/]: Mod Ksyxis-1.3.4.jar loaded!
+[08Feb2026 00:09:09.129] [main/INFO] [opotato/]: Mod NoChatLagForge-1.1.0-1.16.jar loaded!
+[08Feb2026 00:09:09.129] [main/INFO] [opotato/]: Mod Placebo-1.16.5-4.7.1.jar loaded!
+[08Feb2026 00:09:09.130] [main/INFO] [opotato/]: Mod PlayerRevive_v2.0.0-pre04_mc1.16.5.jar loaded!
+[08Feb2026 00:09:09.131] [main/INFO] [opotato/]: Mod The-Hordes-1.16.5-1.1.5c.jar loaded!
+[08Feb2026 00:09:09.137] [main/INFO] [opotato/]: Mod TravelersBackpack-1.16.5-5.4.51.jar loaded!
+[08Feb2026 00:09:09.137] [main/INFO] [opotato/]: Mod Waystones_1.16.5-7.6.4.jar loaded!
+[08Feb2026 00:09:09.137] [main/INFO] [opotato/]: Mod WegotRunners0.3a.jar loaded!
+[08Feb2026 00:09:09.137] [main/INFO] [opotato/]: Mod Zombie Mob drops 1.16.5 v3.jar loaded!
+[08Feb2026 00:09:09.138] [main/INFO] [opotato/]: Mod additional-guns-0.8.0-1.16.5.jar loaded!
+[08Feb2026 00:09:09.139] [main/INFO] [opotato/]: Mod betterfpsdist-1.2.jar loaded!
+[08Feb2026 00:09:09.139] [main/INFO] [opotato/]: Mod bottleyourxp_1.16.5-1.6.jar loaded!
+[08Feb2026 00:09:09.140] [main/INFO] [opotato/]: Mod brrp-forge-0.8.1-1.16.5.jar loaded!
+[08Feb2026 00:09:09.141] [main/INFO] [opotato/]: Mod caesium-forge-1.16.5-0.6.6.jar loaded!
+[08Feb2026 00:09:09.141] [main/INFO] [opotato/]: Mod cgm-1.2.6-1.16.5.jar loaded!
+[08Feb2026 00:09:09.144] [main/INFO] [opotato/]: Mod citadel-1.8.1-1.16.5.jar loaded!
+[08Feb2026 00:09:09.145] [main/INFO] [opotato/]: Mod cloth-config-4.17.132-forge.jar loaded!
+[08Feb2026 00:09:09.147] [main/INFO] [opotato/]: Mod collective-1.16.5-5.49.jar loaded!
+[08Feb2026 00:09:09.150] [main/INFO] [opotato/]: Mod compactxpbottles-1.16.5-1.3.3.jar loaded!
+[08Feb2026 00:09:09.151] [main/INFO] [opotato/]: Mod connectivity-2.4-1.16.5.jar loaded!
+[08Feb2026 00:09:09.151] [main/INFO] [opotato/]: Mod coroutil-forge-1.16.5-1.3.6.jar loaded!
+[08Feb2026 00:09:09.151] [main/INFO] [opotato/]: Mod curios-forge-1.16.5-4.1.0.0.jar loaded!
+[08Feb2026 00:09:09.151] [main/INFO] [opotato/]: Mod doespotatotick-1.16.5-5.5.5.jar loaded!
+[08Feb2026 00:09:09.151] [main/INFO] [opotato/]: Mod dreadsteel-1.16.5-1.1.6.jar loaded!
+[08Feb2026 00:09:09.151] [main/INFO] [opotato/]: Mod duplicationless-1.16.5-1.1.5.jar loaded!
+[08Feb2026 00:09:09.152] [main/INFO] [opotato/]: Mod dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar loaded!
+[08Feb2026 00:09:09.152] [main/INFO] [opotato/]: Mod embeddium-0.3.18+mc1.16.5.jar loaded!
+[08Feb2026 00:09:09.153] [main/INFO] [opotato/]: Mod embeddiumextras-1.16.5-1.12.5.jar loaded!
+[08Feb2026 00:09:09.154] [main/INFO] [opotato/]: Mod entitycollisionfpsfix-1.16-1.0.1.jar loaded!
+[08Feb2026 00:09:09.157] [main/INFO] [opotato/]: Mod expandability-2.0.1-forge.jar loaded!
+[08Feb2026 00:09:09.157] [main/INFO] [opotato/]: Mod farsight-1.7.jar loaded!
+[08Feb2026 00:09:09.159] [main/INFO] [opotato/]: Mod fastasyncworldsave-1.16.5-1.4.jar loaded!
+[08Feb2026 00:09:09.162] [main/INFO] [opotato/]: Mod fastquit-3.0.1+1.16.5forge.jar loaded!
+[08Feb2026 00:09:09.163] [main/INFO] [opotato/]: Mod ferritecore-2.1.1-forge.jar loaded!
+[08Feb2026 00:09:09.163] [main/INFO] [opotato/]: Mod flywheel-1.16-0.2.5.jar loaded!
+[08Feb2026 00:09:09.163] [main/INFO] [opotato/]: Mod forge-1.16.5-36.2.42-server.jar loaded!
+[08Feb2026 00:09:09.163] [main/INFO] [opotato/]: Mod forge-1.16.5-36.2.42-universal.jar loaded!
+[08Feb2026 00:09:09.164] [main/INFO] [opotato/]: Mod francium-1.16.5-1.0.1.jar loaded!
+[08Feb2026 00:09:09.164] [main/INFO] [opotato/]: Mod geckolib-forge-1.16.5-3.0.106.jar loaded!
+[08Feb2026 00:09:09.165] [main/INFO] [opotato/]: Mod gravestone-1.16.5-1.0.7.jar loaded!
+[08Feb2026 00:09:09.167] [main/INFO] [opotato/]: Mod iceandfire-2.1.12-1.16.5-patch-1.jar loaded!
+[08Feb2026 00:09:09.167] [main/INFO] [opotato/]: Mod jei-1.16.5-7.8.0.1013.jar loaded!
+[08Feb2026 00:09:09.170] [main/INFO] [opotato/]: Mod journeymap-1.16.5-5.8.6.jar loaded!
+[08Feb2026 00:09:09.171] [main/INFO] [opotato/]: Mod lazydfu-0.1.3.jar loaded!
+[08Feb2026 00:09:09.172] [main/INFO] [opotato/]: Mod limitedchunks-2.1.jar loaded!
+[08Feb2026 00:09:09.173] [main/INFO] [opotato/]: Mod lrarmor-0.1.jar loaded!
+[08Feb2026 00:09:09.173] [main/INFO] [opotato/]: Mod mobsunscreen-1.16.5-3.0.4.jar loaded!
+[08Feb2026 00:09:09.173] [main/INFO] [opotato/]: Mod modernfix-forge-5.18.0+mc1.16.5.jar loaded!
+[08Feb2026 00:09:09.174] [main/INFO] [opotato/]: Mod nerb-1.16.5-0.3.1-FORGE.jar loaded!
+[08Feb2026 00:09:09.175] [main/INFO] [opotato/]: Mod obfuscate-0.6.3-1.16.5.jar loaded!
+[08Feb2026 00:09:09.176] [main/INFO] [opotato/]: Mod opotato-1.16.5-2.5.6.jar loaded!
+[08Feb2026 00:09:09.177] [main/INFO] [opotato/]: Mod performant-1.16.2-5-4.1m.jar loaded!
+[08Feb2026 00:09:09.177] [main/INFO] [opotato/]: Mod potatocurrent-1.16.5-0.0.1.jar loaded!
+[08Feb2026 00:09:09.178] [main/INFO] [opotato/]: Mod radon-0.8.0a.jar loaded!
+[08Feb2026 00:09:09.180] [main/INFO] [opotato/]: Mod relics-1.16.5-0.3.4.4.jar loaded!
+[08Feb2026 00:09:09.181] [main/INFO] [opotato/]: Mod responsiveshields-2.1-mc1.16.5.jar loaded!
+[08Feb2026 00:09:09.183] [main/INFO] [opotato/]: Mod simpleplanes-1.16.5-4.6.0.jar loaded!
+[08Feb2026 00:09:09.184] [main/INFO] [opotato/]: Mod smoothchunk1.16.5-2.0.jar loaded!
+[08Feb2026 00:09:09.184] [main/INFO] [opotato/]: Mod textrue_embeddium_options-0.1.2+mc1.16.5.jar loaded!
+[08Feb2026 00:09:09.185] [main/INFO] [opotato/]: Mod zombieawareness-1.16.5-1.12.jar loaded!
+[08Feb2026 00:09:09.327] [main/INFO] [opotato/]: Loaded configuration file for Opotato: 39 options available, 0 override(s) found
+[08Feb2026 00:09:09.340] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Feb2026 00:09:09.644] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 89 options available, 2 override(s) found
+[08Feb2026 00:09:09.645] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.remove_block_chunkloading' overriden (by mods [performant]) to 'false'
+[08Feb2026 00:09:09.646] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.mc218112' overriden (by mods [performant]) to 'false'
+[08Feb2026 00:09:10.252] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[08Feb2026 00:09:10.281] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/embeddedt/modernfix/forge/shadow/mixinextras/service/MixinExtrasVersion
+[08Feb2026 00:09:10.497] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 99 options available, 0 override(s) found
+[08Feb2026 00:09:10.518] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/kall/duplicationless/mixinextras/service/MixinExtrasVersion
+[08Feb2026 00:09:10.537] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/kall/duplicationless/mixinextras/lib/semver/VersionParser$CharType
+[08Feb2026 00:09:10.755] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/kall/embeddiumextras/mixinextras/service/MixinExtrasVersion
+[08Feb2026 00:09:10.781] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/kall/embeddiumextras/mixinextras/lib/semver/VersionParser$CharType
+[08Feb2026 00:09:10.855] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Feb2026 00:09:10.899] [main/INFO] [com.performant.coremod.Performant/]: Performant configs loaded
+[08Feb2026 00:09:11.036] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[08Feb2026 00:09:11.288] [main/WARN] [Lithium/]: Force-disabling mixin 'ai.nearby_entity_tracking.goals.FleeEntityGoalMixin' as rule 'mixin.ai.nearby_entity_tracking.goals' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.289] [main/WARN] [Lithium/]: Force-disabling mixin 'ai.nearby_entity_tracking.goals.LookAtGoalMixin' as rule 'mixin.ai.nearby_entity_tracking.goals' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.295] [main/WARN] [Lithium/]: Force-disabling mixin 'ai.poi.fast_retrieval.PointOfInterestSetMixin' as rule 'mixin.ai.poi.fast_retrieval' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.297] [main/WARN] [Lithium/]: Force-disabling mixin 'ai.poi.fast_retrieval.PointOfInterestStorageMixin' as rule 'mixin.ai.poi.fast_retrieval' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.298] [main/WARN] [Lithium/]: Force-disabling mixin 'ai.poi.fast_retrieval.SerializingRegionBasedStorageMixin' as rule 'mixin.ai.poi.fast_retrieval' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.319] [main/WARN] [Lithium/]: Force-disabling mixin 'collections.entity_filtering.TypeFilterableListMixin' as rule 'mixin.collections.entity_filtering' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.320] [main/WARN] [Lithium/]: Force-disabling mixin 'entity.collisions.CollisionViewMixin' as rule 'mixin.entity.collisions' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.321] [main/WARN] [Lithium/]: Force-disabling mixin 'entity.collisions.EntityMixin' as rule 'mixin.entity.collisions' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.322] [main/WARN] [Lithium/]: Force-disabling mixin 'entity.collisions.EntityViewMixin' as rule 'mixin.entity.collisions' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.324] [main/WARN] [Lithium/]: Force-disabling mixin 'entity.data_tracker.use_arrays.DataTrackerMixin' as rule 'mixin.entity.data_tracker.use_arrays' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.343] [main/WARN] [Lithium/]: Force-disabling mixin 'gen.features.StructureFeatureMixin' as rule 'mixin.gen.features' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.361] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.collections.WorldMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.362] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.should_tick_cache.WorldMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.363] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.AbstractFurnaceBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.364] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.BeehiveBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.365] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.BellBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.366] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.BlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.367] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.BrewingStandBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.370] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.371] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ChestBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.374] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.DaylightDetectorBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.375] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.EnchantingTableBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.375] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.EnderChestBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.376] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.HopperBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.376] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ShulkerBoxBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.376] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.SkullBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.382] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WorldMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.384] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.support_cache.BlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.385] [main/WARN] [Lithium/]: Force-disabling mixin 'world.block_entity_ticking.support_cache.WorldMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.390] [main/WARN] [Lithium/]: Force-disabling mixin 'world.chunk_tickets.SortedArraySetMixin' as rule 'mixin.world.chunk_tickets' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.391] [main/WARN] [Lithium/]: Force-disabling mixin 'world.chunk_ticking.PlayerChunkWatchingManagerMixin' as rule 'mixin.world.chunk_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.392] [main/WARN] [Lithium/]: Force-disabling mixin 'world.chunk_ticking.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.chunk_ticking' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:11.396] [main/WARN] [Lithium/]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [performant]) disables it and children
+[08Feb2026 00:09:12.102] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[08Feb2026 00:09:12.240] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[08Feb2026 00:09:12.465] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[08Feb2026 00:09:12.877] [main/INFO] [com.performant.coremod.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.entity.LivingEntityUpdateEventMixin as config disables it.
+[08Feb2026 00:09:12.881] [main/INFO] [com.performant.coremod.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.forge.BasicEventHooksMixin as config disables it.
+[08Feb2026 00:09:12.900] [main/INFO] [com.performant.coremod.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.world.WorldMixin as config disables it.
+[08Feb2026 00:09:13.214] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Unit
+[08Feb2026 00:09:13.222] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via me.kall.duplicationless.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[08Feb2026 00:09:13.350] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/util/Unit
+[08Feb2026 00:09:13.513] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: ModernFix reached bootstrap stage (12.52 s after launch)
+[08Feb2026 00:09:13.589] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Util$IdentityStrategy
+[08Feb2026 00:09:14.538] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.MixinAbstractBlockState
+[08Feb2026 00:09:14.540] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.MixinAbstractBlockState
+[08Feb2026 00:09:14.540] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into func_204519_t from me.jellysquid.mods.lithium.mixin.block.flatten_states.AbstractBlockStateMixin
+[08Feb2026 00:09:14.868] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[08Feb2026 00:09:15.917] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction
+[08Feb2026 00:09:15.919] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$AxisDirection
+[08Feb2026 00:09:15.919] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Axis
+[08Feb2026 00:09:16.069] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/material/PushReaction
+[08Feb2026 00:09:16.214] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/pathfinding/PathNodeType
+[08Feb2026 00:09:16.223] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[08Feb2026 00:09:16.237] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Plane
+[08Feb2026 00:09:16.239] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawOrientation
+[08Feb2026 00:09:16.245] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/AttachFace
+[08Feb2026 00:09:16.246] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BellAttachment
+[08Feb2026 00:09:16.248] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/WallHeight
+[08Feb2026 00:09:16.249] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RedstoneSide
+[08Feb2026 00:09:16.249] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoubleBlockHalf
+[08Feb2026 00:09:16.250] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/Half
+[08Feb2026 00:09:16.251] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RailShape
+[08Feb2026 00:09:16.253] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BedPart
+[08Feb2026 00:09:16.253] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ChestType
+[08Feb2026 00:09:16.254] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ComparatorMode
+[08Feb2026 00:09:16.255] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoorHingeSide
+[08Feb2026 00:09:16.256] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/NoteBlockInstrument
+[08Feb2026 00:09:16.258] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/PistonType
+[08Feb2026 00:09:16.259] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/SlabType
+[08Feb2026 00:09:16.259] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StairsShape
+[08Feb2026 00:09:16.260] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StructureMode
+[08Feb2026 00:09:16.261] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BambooLeaves
+[08Feb2026 00:09:16.510] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/DyeColor
+[08Feb2026 00:09:16.529] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/AxisRotation
+[08Feb2026 00:09:16.572] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/potion/EffectType
+[08Feb2026 00:09:16.573] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/TextFormatting
+[08Feb2026 00:09:16.576] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/attributes/AttributeModifier$Operation
+[08Feb2026 00:09:16.700] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/PressurePlateBlock$Sensitivity
+[08Feb2026 00:09:16.883] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/SkullBlock$Types
+[08Feb2026 00:09:17.220] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Type
+[08Feb2026 00:09:17.222] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Usage
+[08Feb2026 00:09:17.274] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/EntityClassification
+[08Feb2026 00:09:17.683] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/goal/Goal$Flag
+[08Feb2026 00:09:17.752] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[08Feb2026 00:09:18.287] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Carving
+[08Feb2026 00:09:18.388] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Decoration
+[08Feb2026 00:09:18.394] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/MineshaftStructure$Type
+[08Feb2026 00:09:18.398] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/RuinedPortalStructure$Location
+[08Feb2026 00:09:18.408] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/OceanRuinStructure$Type
+[08Feb2026 00:09:18.454] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawPattern$PlacementBehaviour
+[08Feb2026 00:09:18.544] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/JigsawTileEntity$OrientationType
+[08Feb2026 00:09:18.589] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$TemperatureModifier
+[08Feb2026 00:09:18.593] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$RainType
+[08Feb2026 00:09:18.594] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$Category
+[08Feb2026 00:09:18.596] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/BiomeAmbience$GrassColorModifier
+[08Feb2026 00:09:18.741] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType
+[08Feb2026 00:09:18.744] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType$Group
+[08Feb2026 00:09:18.749] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/Enchantment$Rarity
+[08Feb2026 00:09:18.751] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/ProtectionEnchantment$Type
+[08Feb2026 00:09:18.753] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/EnchantmentType
+[08Feb2026 00:09:18.849] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/Rarity
+[08Feb2026 00:09:18.886] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ArmorMaterial
+[08Feb2026 00:09:18.909] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ItemTier
+[08Feb2026 00:09:18.917] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/minecart/AbstractMinecartEntity$Type
+[08Feb2026 00:09:18.920] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/BoatEntity$Type
+[08Feb2026 00:09:18.940] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BannerPattern
+[08Feb2026 00:09:18.974] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/ScoreCriteria$RenderType
+[08Feb2026 00:09:19.005] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/ChunkStatus$Type
+[08Feb2026 00:09:19.315] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/brigadier/arguments/StringArgumentType$StringType
+[08Feb2026 00:09:19.392] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: Vanilla bootstrap took 5873 milliseconds
+[08Feb2026 00:09:19.441] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSidedProvider
+[08Feb2026 00:09:19.560] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/NetworkDirection
+[08Feb2026 00:09:19.561] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSide
+[08Feb2026 00:09:19.606] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/config/ModConfig$Type
+[08Feb2026 00:09:19.624] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage
+[08Feb2026 00:09:19.627] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage$ThreadSelector
+[08Feb2026 00:09:19.672] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[08Feb2026 00:09:19.673] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[08Feb2026 00:09:19.674] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[08Feb2026 00:09:19.674] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[08Feb2026 00:09:19.750] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[08Feb2026 00:09:19.750] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[08Feb2026 00:09:19.770] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/client/SwayType
+[08Feb2026 00:09:19.797] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/common/Mod$EventBusSubscriber$Bus
+[08Feb2026 00:09:19.827] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TickEvent$Phase
+[08Feb2026 00:09:19.831] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TickEvent$Type
+[08Feb2026 00:09:19.854] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/Commands$EnvironmentType
+[08Feb2026 00:09:19.867] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/config/WorldGenStyle
+[08Feb2026 00:09:19.869] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/worldgen/namegen/NameGenerationMode
+[08Feb2026 00:09:19.875] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/config/DimensionalWarp
+[08Feb2026 00:09:19.933] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadows/placebo/config/Property$Type
+[08Feb2026 00:09:19.957] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/Pose
+[08Feb2026 00:09:19.961] [modloading-worker-1/WARN] [mixin/]: @Final field field_187234_c:Ljava/util/Map; in performant.mixins.json:entity.EntityDataManagerMixin should be final
+[08Feb2026 00:09:19.998] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/MoverType
+[08Feb2026 00:09:19.999] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Hand
+[08Feb2026 00:09:20.002] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/ActionResultType
+[08Feb2026 00:09:20.004] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/SoundCategory
+[08Feb2026 00:09:20.005] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Rotation
+[08Feb2026 00:09:20.009] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Mirror
+[08Feb2026 00:09:20.010] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/arguments/EntityAnchorArgument$Type
+[08Feb2026 00:09:20.057] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[08Feb2026 00:09:20.103] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/network/PacketIdServer
+[08Feb2026 00:09:20.268] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[08Feb2026 00:09:20.298] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/world/NoteBlockEvent$Octave
+[08Feb2026 00:09:20.302] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/world/NoteBlockEvent$Note
+[08Feb2026 00:09:20.327] [modloading-worker-1/INFO] [coroutil/]: forge loader environment detected
+[08Feb2026 00:09:20.416] [modloading-worker-0/INFO] [The Hordes/]: Trying to load common config
+[08Feb2026 00:09:20.417] [modloading-worker-0/INFO] [The Hordes/]: Trying to load client config
+[08Feb2026 00:09:20.471] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[08Feb2026 00:09:20.473] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[08Feb2026 00:09:20.618] [modloading-worker-0/INFO] [Ksyxis/MOD_KSYXIS]: Ksyxis: Booting... (platform: Forge/KForge, manual: false)
+[08Feb2026 00:09:20.619] [modloading-worker-0/INFO] [Ksyxis/MOD_KSYXIS]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.4, time: 0 ms)
+[08Feb2026 00:09:20.646] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/curios/client/CuriosClientConfig$Client$ButtonCorner
+[08Feb2026 00:09:20.827] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumDragonEgg
+[08Feb2026 00:09:21.029] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/shedaniel/cloth/clothconfig/shadowed/com/moandjiezana/toml/Identifier$Type
+[08Feb2026 00:09:21.053] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/kingcontaria/fastquit/config/ModConfig$ShowSavingTime
+[08Feb2026 00:09:21.062] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/shedaniel/autoconfig/annotation/ConfigEntry$Gui$EnumHandler$EnumDisplayOption
+[08Feb2026 00:09:21.095] [modloading-worker-0/INFO] [fastquit/]: FastQuit Initialized!
+[08Feb2026 00:09:21.146] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
+[08Feb2026 00:09:21.159] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumDragonArmor
+[08Feb2026 00:09:21.172] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumSeaSerpent
+[08Feb2026 00:09:21.189] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumSkullType
+[08Feb2026 00:09:21.412] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumParticles
+[08Feb2026 00:09:21.414] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/UseAction
+[08Feb2026 00:09:21.629] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/capabilities/CapabilityManager
+[08Feb2026 00:09:21.776] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumTroll$Weapon
+[08Feb2026 00:09:21.784] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumTroll
+[08Feb2026 00:09:21.810] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/xjqsh/lesraisinsarmor/armor/LrArmorMaterial
+[08Feb2026 00:09:21.843] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mindoth/dreadsteel/item/armor/DreadsteelArmor$MaterialDreadsteel
+[08Feb2026 00:09:21.846] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mindoth/dreadsteel/item/weapon/DreadsteelTier
+[08Feb2026 00:09:21.978] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/enchantment/GunEnchantment$Type
+[08Feb2026 00:09:22.019] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[08Feb2026 00:09:22.020] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[08Feb2026 00:09:22.163] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/Difficulty
+[08Feb2026 00:09:22.384] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/config/biome/BiomeEntryType
+[08Feb2026 00:09:22.395] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[08Feb2026 00:09:22.446] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[08Feb2026 00:09:22.447] [modloading-worker-1/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[08Feb2026 00:09:22.463] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/util/GiveMode
+[08Feb2026 00:09:22.478] [modloading-worker-0/WARN] [citadel/]: Failed to load patreon contributor perks
+[08Feb2026 00:09:22.509] [modloading-worker-1/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
+[08Feb2026 00:09:22.528] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/VersionChecker$Status
+[08Feb2026 00:09:22.535] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/EntitySpawnPlacementRegistry$PlacementType
+[08Feb2026 00:09:22.537] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/SpawnReason
+[08Feb2026 00:09:22.559] [modloading-worker-0/INFO] [com.betterfpsdist.BetterfpsdistMod/]: betterfpsdist mod initialized
+[08Feb2026 00:09:22.599] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/curios/api/type/capability/ICurio$DropRule
+[08Feb2026 00:09:22.600] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/curios/common/network/server/sync/SPacketSyncStack$HandlerType
+[08Feb2026 00:09:22.603] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/ColumnFuzzedBiomeMagnifier
+[08Feb2026 00:09:22.613] [modloading-worker-1/WARN] [mixin/]: Method overwrite conflict for func_225532_a_ in modernfix-common.mixins.json:perf.biome_zoomer.FuzzyOffsetBiomeZoomerMixin, previously written by me.jellysquid.mods.lithium.mixin.gen.voronoi_biomes.VoronoiBiomeAccessTypeMixin. Skipping method.
+[08Feb2026 00:09:22.616] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/FuzzedBiomeMagnifier
+[08Feb2026 00:09:22.618] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/DefaultBiomeMagnifier
+[08Feb2026 00:09:22.659] [modloading-worker-1/INFO] [net.minecraft.world.biome.Biome/]: Performant2 loaded, lag begone!
+[08Feb2026 00:09:22.701] [modloading-worker-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting team/creative/creativecore/common/config/sync/ConfigSynchronization
+[08Feb2026 00:09:22.757] [main/INFO] [journeymap/]: Initializing Packet Registries
+[08Feb2026 00:09:22.823] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[08Feb2026 00:09:22.824] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[08Feb2026 00:09:22.824] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[08Feb2026 00:09:22.825] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[08Feb2026 00:09:23.082] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/curios/api/SlotTypePreset
+[08Feb2026 00:09:23.192] [modloading-worker-1/INFO] [The Hordes/]: Trying to read spawn table from config
+[08Feb2026 00:09:23.195] [modloading-worker-1/INFO] [The Hordes/]: Loaded entity minecraft:zombie-30-0-20 as entity.minecraft.zombie with weight 30, min day 0 and max day 20
+[08Feb2026 00:09:23.196] [modloading-worker-1/INFO] [The Hordes/]: Loaded entity minecraft:zombie_villager-3-0-20 as entity.minecraft.zombie_villager with weight 3, min day 0 and max day 20
+[08Feb2026 00:09:23.196] [modloading-worker-1/INFO] [The Hordes/]: Loaded entity minecraft:husk-30-30-0 as entity.minecraft.husk with weight 30, min day 30 and max day 0
+[08Feb2026 00:09:23.205] [modloading-worker-1/INFO] [The Hordes/]: Loaded entity minecraft:drowned{HandItems:[{id:trident,Count:1}]}-1-30-0 as entity.minecraft.drowned with weight 1, min day 30 and max day 0
+[08Feb2026 00:09:23.209] [modloading-worker-1/INFO] [The Hordes/]: Trying to read conversion table from config
+[08Feb2026 00:09:23.219] [modloading-worker-1/INFO] [The Hordes/]: Loaded conversion minecraft:horse-65-minecraft:zombie_horse as entity.minecraft.horse with infection chance 65, and converts to entity.minecraft.zombie_horse
+[08Feb2026 00:09:23.332] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/embeddedt/modernfix/util/BakeReason
+[08Feb2026 00:09:23.386] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/serialization/DataResult$Instance
+[08Feb2026 00:09:23.855] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/GameType
+[08Feb2026 00:09:23.899] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/BiomeManager$BiomeType
+[08Feb2026 00:09:23.916] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/LayerUtil$Type
+[08Feb2026 00:09:23.926] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/IslandLayer
+[08Feb2026 00:09:23.945] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/ZoomLayer
+[08Feb2026 00:09:23.946] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/AddIslandLayer
+[08Feb2026 00:09:23.947] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/RemoveTooMuchOceanLayer
+[08Feb2026 00:09:23.948] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/OceanLayer
+[08Feb2026 00:09:23.949] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/AddSnowLayer
+[08Feb2026 00:09:23.949] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/EdgeLayer$CoolWarm
+[08Feb2026 00:09:23.950] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/EdgeLayer$HeatIce
+[08Feb2026 00:09:23.950] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/EdgeLayer$Special
+[08Feb2026 00:09:23.951] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/AddMushroomIslandLayer
+[08Feb2026 00:09:23.952] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/DeepOceanLayer
+[08Feb2026 00:09:23.952] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/StartRiverLayer
+[08Feb2026 00:09:23.953] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/AddBambooForestLayer
+[08Feb2026 00:09:23.954] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/EdgeBiomeLayer
+[08Feb2026 00:09:23.954] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/HillsLayer
+[08Feb2026 00:09:23.957] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/RiverLayer
+[08Feb2026 00:09:23.957] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/SmoothLayer
+[08Feb2026 00:09:23.958] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/RareBiomeLayer
+[08Feb2026 00:09:23.958] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/ShoreLayer
+[08Feb2026 00:09:23.961] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/MixRiverLayer
+[08Feb2026 00:09:23.961] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/layer/MixOceansLayer
+[08Feb2026 00:09:23.987] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/authlib/yggdrasil/YggdrasilEnvironment
+[08Feb2026 00:09:23.992] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Feb2026 00:09:24.009] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/GameRules$Category
+[08Feb2026 00:09:24.121] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[08Feb2026 00:09:24.181] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/datafix/DefaultTypeReferences
+[08Feb2026 00:09:24.230] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/resources/ResourcePackType
+[08Feb2026 00:09:24.281] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/resources/ResourcePackInfo$Priority
+[08Feb2026 00:09:24.316] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/resources/PackCompatibility
+[08Feb2026 00:09:24.379] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/loot/LootContext$EntityTarget
+[08Feb2026 00:09:24.561] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/event/ClickEvent$Action
+[08Feb2026 00:09:24.674] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[08Feb2026 00:09:24.677] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[08Feb2026 00:09:24.681] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Feb2026 00:09:24.683] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Feb2026 00:09:24.684] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Feb2026 00:09:24.688] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Feb2026 00:09:24.691] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Feb2026 00:09:24.693] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[08Feb2026 00:09:24.695] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[08Feb2026 00:09:24.702] [main/INFO] [BRRP/ReloadableResourceManagerImplMixin/]: BRRP register - before vanilla
+[08Feb2026 00:09:24.705] [main/INFO] [BRRP/ReloadableResourceManagerImplMixin/]: BRRP register - after vanilla
+[08Feb2026 00:09:24.709] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, TravelersBackpack-1.16.5-5.4.51.jar, jei-1.16.5-7.8.0.1013.jar, zombieawareness-1.16.5-1.12.jar, Atlas-Lib-1.16.5-1.1.3c.jar, coroutil-forge-1.16.5-1.3.6.jar, WegotRunners0.3a.jar, The-Hordes-1.16.5-1.1.5c.jar, cloth-config-4.17.132-forge.jar, Waystones_1.16.5-7.6.4.jar, gravestone-1.16.5-1.0.7.jar, mobsunscreen-1.16.5-3.0.4.jar, additional-guns-0.8.0-1.16.5.jar, obfuscate-0.6.3-1.16.5.jar, cgm-1.2.6-1.16.5.jar, compactxpbottles-1.16.5-1.3.3.jar, bottleyourxp_1.16.5-1.6.jar, Zombie Mob drops 1.16.5 v3.jar, collective-1.16.5-5.49.jar, limitedchunks-2.1.jar, caesium-forge-1.16.5-0.6.6.jar, opotato-1.16.5-2.5.6.jar, nerb-1.16.5-0.3.1-FORGE.jar, connectivity-2.4-1.16.5.jar, FastSuite-1.16.4-1.1.1.jar, journeymap-1.16.5-5.8.6.jar, fastasyncworldsave-1.16.5-1.4.jar, Placebo-1.16.5-4.7.1.jar, modernfix-forge-5.18.0+mc1.16.5.jar, Artifacts-1.16.5-2.10.6.jar, lazydfu-0.1.3.jar, simpleplanes-1.16.5-4.6.0.jar, BeeFix-1.16.2-1.0.7.jar, smoothchunk1.16.5-2.0.jar, lrarmor-0.1.jar, CreativeCore_v2.2.1_mc1.16.5.jar, Ksyxis-1.3.4.jar, curios-forge-1.16.5-4.1.0.0.jar, relics-1.16.5-0.3.4.4.jar, duplicationless-1.16.5-1.1.5.jar, performant-1.16.2-5-4.1m.jar, doespotatotick-1.16.5-5.5.5.jar, potatocurrent-1.16.5-0.0.1.jar, ferritecore-2.1.1-forge.jar, francium-1.16.5-1.0.1.jar, expandability-2.0.1-forge.jar, CosmeticArmorReworked-1.16.5-v5a.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, geckolib-forge-1.16.5-3.0.106.jar, dreadsteel-1.16.5-1.1.6.jar, responsiveshields-2.1-mc1.16.5.jar, betterfpsdist-1.2.jar, radon-0.8.0a.jar, embeddium-0.3.18+mc1.16.5.jar, NoChatLagForge-1.1.0-1.16.jar, farsight-1.7.jar, dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar, FpsReducer-forge-1.24-mc1.16.5.jar, fastquit-3.0.1+1.16.5forge.jar, entitycollisionfpsfix-1.16-1.0.1.jar, flywheel-1.16-0.2.5.jar, embeddiumextras-1.16.5-1.12.5.jar, brrp-forge-0.8.1-1.16.5.jar, textrue_embeddium_options-0.1.2+mc1.16.5.jar
+[08Feb2026 00:09:24.713] [main/INFO] [ModernFix/]: Invalidating pack caches
+[08Feb2026 00:09:26.106] [Worker-Main-1/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[08Feb2026 00:09:26.126] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/FireworkRocketItem$Shape
+[08Feb2026 00:09:26.151] [Worker-Main-1/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 11 recipes
+[08Feb2026 00:09:26.162] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/loot/functions/CopyNbt$Source
+[08Feb2026 00:09:26.164] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/loot/functions/CopyNbt$Action
+[08Feb2026 00:09:26.185] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/loot/functions/CopyName$Source
+[08Feb2026 00:09:26.243] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/storage/MapDecoration$Type
+[08Feb2026 00:09:26.281] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ItemStack$TooltipDisplayFlags
+[08Feb2026 00:09:26.575] [Worker-Main-1/INFO] [placebo/]: Registered 0 additional loot tables.
+[08Feb2026 00:09:26.585] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/advancements/FrameType
+[08Feb2026 00:09:26.747] [Worker-Main-1/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1287 advancements
+[08Feb2026 00:09:26.750] [Worker-Main-1/INFO] [placebo/]: Registered 0 additional recipes.
+[08Feb2026 00:09:26.756] [Worker-Main-1/INFO] [fastsuite/]: Successfully processed 1702 recipes into the AuxRecipeManager.
+[08Feb2026 00:09:27.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[08Feb2026 00:09:27.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Feb2026 00:09:27.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Feb2026 00:09:27.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Feb2026 00:09:27.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Feb2026 00:09:27.481] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[08Feb2026 00:09:27.491] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping performant.mixins.json:connection.NetworkSystemMixin->@Redirect::create(I)Lio/netty/handler/timeout/ReadTimeoutHandler; with priority 1000, already redirected by connectivity.mixins.json:NetworkSystemMixin->@Redirect::create(I)Lio/netty/handler/timeout/ReadTimeoutHandler; with priority 1001
+[08Feb2026 00:09:27.495] [Server thread/WARN] [mixin/]: Mixin apply failed performant.mixins.json:connection.NetworkSystemMixin -> net.minecraft.network.NetworkSystem$1: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException @Redirect ctor invocation was not found in net/minecraft/network/NetworkSystem$1::initChannel(Lio/netty/channel/Channel;)V [ -> Inject -> performant.mixins.json:connection.NetworkSystemMixin->@FactoryRedirectWrapper::create(I)Lio/netty/handler/timeout/ReadTimeoutHandler;]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @Redirect ctor invocation was not found in net/minecraft/network/NetworkSystem$1::initChannel(Lio/netty/channel/Channel;)V [ -> Inject -> performant.mixins.json:connection.NetworkSystemMixin->@FactoryRedirectWrapper::create(I)Lio/netty/handler/timeout/ReadTimeoutHandler;]
+	at org.spongepowered.asm.mixin.injection.invoke.RedirectInjector.postInject(RedirectInjector.java:371) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.injection.code.Injector.inject(Injector.java:280) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at me.kall.duplicationless.mixinextras.wrapper.InjectorWrapperImpl.postInject(InjectorWrapperImpl.java:140) ~[duplicationless:?]
+	at me.kall.duplicationless.mixinextras.wrapper.InjectorWrapperImpl.doGranularInject(InjectorWrapperImpl.java:116) ~[duplicationless:?]
+	at me.kall.duplicationless.mixinextras.wrapper.InjectorWrapperImpl.granularInject(InjectorWrapperImpl.java:84) ~[duplicationless:?]
+	at me.kall.duplicationless.mixinextras.wrapper.factory.FactoryRedirectWrapperImpl.granularInject(FactoryRedirectWrapperImpl.java:51) ~[duplicationless:?]
+	at me.kall.duplicationless.mixinextras.wrapper.InjectorWrapperImpl.doInject(InjectorWrapperImpl.java:67) ~[duplicationless:?]
+	at me.kall.duplicationless.mixinextras.wrapper.WrapperInjectionInfo.inject(WrapperInjectionInfo.java:78) ~[duplicationless:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1355) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1051) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:400) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:154) ~[modlauncher-8.1.3.jar:8.1.3+8.1.3+main-8.1.x.c94d18ec]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at net.minecraft.network.NetworkSystem.func_151265_a(NetworkSystem.java:76) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:138) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[08Feb2026 00:09:27.595] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Feb2026 00:09:27.597] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Feb2026 00:09:27.598] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Feb2026 00:09:27.599] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Feb2026 00:09:27.638] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Feb2026 00:09:27.664] [Server thread/INFO] [ModernFix/]: Starting locating executor service with thread pool size of 1
+[08Feb2026 00:09:27.712] [Server thread/INFO] [me.kall.duplicationless.data.EntityTracker/]: Duplicationless Entity Tracker has initialized successfully.
+[08Feb2026 00:09:27.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Feb2026 00:09:27.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/VillageSiege$State
+[08Feb2026 00:09:27.757] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/TickPriority
+[08Feb2026 00:09:27.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/storage/IOWorker$Priority
+[08Feb2026 00:09:27.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/LightType
+[08Feb2026 00:09:28.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/BossInfo$Color
+[08Feb2026 00:09:28.316] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/BossInfo$Overlay
+[08Feb2026 00:09:28.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/raid/Raid$Status
+[08Feb2026 00:09:28.351] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SUpdateBossInfoPacket$Operation
+[08Feb2026 00:09:28.355] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/MOD_KSYXIS]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=func_213186_a,CANCELLABLE=false], server: net.minecraft.server.dedicated.DedicatedServer@7ef1c768)
+[08Feb2026 00:09:28.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Feb2026 00:09:28.364] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in performant.mixins.json:collection.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[08Feb2026 00:09:28.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/server/ChunkHolder$LocationType
+[08Feb2026 00:09:28.418] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 59 ms
+[08Feb2026 00:09:28.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (0.796s)! For help, type "help"
+[08Feb2026 00:09:28.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/properties/ServerOption
+[08Feb2026 00:09:28.455] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/properties/PropertiesBase$State
+[08Feb2026 00:09:28.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jozufozu/flywheel/config/BooleanConfig
+[08Feb2026 00:09:28.492] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[08Feb2026 00:09:28.493] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[08Feb2026 00:09:28.497] [Server thread/WARN] [ModernFix/]: Dedicated server took 27.508 seconds to load
+[08Feb2026 00:09:28.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction8
+[08Feb2026 00:09:28.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/server/ServerWorldLightManager$Phase
+[08Feb2026 00:09:28.627] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/BlockVoxelShape
+[08Feb2026 00:09:28.629] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/EmptyBlockReader
+[08Feb2026 00:09:29.501] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/datatracker/EntityPropertiesHandler
+[08Feb2026 00:09:33.601] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/PacketDirection
+[08Feb2026 00:09:33.616] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ProtocolType
+[08Feb2026 00:09:33.625] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CPlayerDiggingPacket$Action
+[08Feb2026 00:09:33.656] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping performant.mixins.json:connection.ServerLoginNetHandlerMixin->@ModifyConstant::loginTimeout(I)I with priority 100, already redirected by connectivity.mixins.json:ServerLoginNetHandlerMixin->@ModifyConstant::loginTimeout(I)I with priority 1001
+[08Feb2026 00:09:33.680] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping performant.mixins.json:connection.ServerPlayNetHandlerMixin->@ModifyConstant::playTimeout(J)J with priority 100, already redirected by connectivity.mixins.json:ServerPlayNetHandlerMixin->@ModifyConstant::playTimeout(J)J with priority 1001
+[08Feb2026 00:09:33.693] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SCombatPacket$Event
+[08Feb2026 00:09:33.696] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SPlayerListItemPacket$Action
+[08Feb2026 00:09:33.702] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SRecipeBookPacket$State
+[08Feb2026 00:09:33.709] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SWorldBorderPacket$Action
+[08Feb2026 00:09:33.722] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/ServerScoreboard$Action
+[08Feb2026 00:09:33.724] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/STitlePacket$Type
+[08Feb2026 00:09:33.735] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CClientStatusPacket$State
+[08Feb2026 00:09:33.773] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/ChatVisibility
+[08Feb2026 00:09:33.774] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/HandSide
+[08Feb2026 00:09:33.777] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/container/ClickType
+[08Feb2026 00:09:33.781] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CUseEntityPacket$Action
+[08Feb2026 00:09:33.800] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CEntityActionPacket$Action
+[08Feb2026 00:09:33.807] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/crafting/RecipeBookCategory
+[08Feb2026 00:09:33.812] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CResourcePackStatusPacket$Action
+[08Feb2026 00:09:33.816] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/client/CSeenAdvancementsPacket$Action
+[08Feb2026 00:09:33.820] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/CommandBlockTileEntity$Mode
+[08Feb2026 00:09:33.826] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/StructureBlockTileEntity$UpdateCommand
+[08Feb2026 00:10:36.906] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/ConnectionType
+[08Feb2026 00:10:36.979] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/login/ServerLoginNetHandler$State
+[08Feb2026 00:10:37.000] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/ICustomPacket$Fields
+[08Feb2026 00:10:38.561] [Netty Epoll Server IO #2/WARN] [mixin/]: Mixin apply failed performant.mixins.json:connection.NettyCompressionDecoderMixin -> net.minecraft.network.NettyCompressionDecoder: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException @At("INVOKE") on net/minecraft/network/NettyCompressionDecoder::onTooLarge with priority 98 cannot inject into net/minecraft/network/NettyCompressionDecoder::decode(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Ljava/util/List;)V merged by com.connectivity.mixin.NettyCompressionDecoderMixin with priority 99 [ -> handler$zmj000$onTooLarge(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Ljava/util/List;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Prepare]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At("INVOKE") on net/minecraft/network/NettyCompressionDecoder::onTooLarge with priority 98 cannot inject into net/minecraft/network/NettyCompressionDecoder::decode(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Ljava/util/List;)V merged by com.connectivity.mixin.NettyCompressionDecoderMixin with priority 99 [ -> handler$zmj000$onTooLarge(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Ljava/util/List;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Prepare]
+	at org.spongepowered.asm.mixin.injection.code.Injector.findTargetNodes(Injector.java:305) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.injection.code.Injector.find(Injector.java:240) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.prepare(InjectionInfo.java:421) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1319) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:1042) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:393) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:154) ~[modlauncher-8.1.3.jar:8.1.3+8.1.3+main-8.1.x.c94d18ec]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at net.minecraft.network.NetworkManager.func_179289_a(NetworkManager.java:339) ~[?:?]
+	at net.minecraft.network.login.ServerLoginNetHandler.lambda$handleAcceptedLogin$0(ServerLoginNetHandler.java:108) ~[?:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:511) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:485) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:424) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.network.NetworkManager.lambda$sendPacket$5(NetworkManager.java:198) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:313) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884) [server-1.16.5-20210115.111550-extra.jar:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[08Feb2026 00:10:38.765] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d7f1cac
+[08Feb2026 00:10:38.847] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/datatracker/EntityDataHandler
+[08Feb2026 00:10:38.858] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: iMapaxeSF[/100.115.243.14:60208] logged in with entity id 1 at (-4956.614157737456, 40.5, 9747.601917046852)
+[08Feb2026 00:10:38.877] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/VanillaPacketSplitter$RemoteCompatibility
+[08Feb2026 00:10:38.923] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Air
+[08Feb2026 00:10:38.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Ground
+[08Feb2026 00:10:38.962] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/monster/SpellcastingIllagerEntity$SpellType
+[08Feb2026 00:10:38.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/EntityAmphithere$FlightBehavior
+[08Feb2026 00:10:39.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/ChatType
+[08Feb2026 00:10:39.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iMapaxeSF joined the game
+[08Feb2026 00:10:39.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/play/server/SPlayerPositionLookPacket$Flags
+[08Feb2026 00:10:39.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/PointOfInterestManager$Status
+[08Feb2026 00:10:39.160] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/pathfinding/PathType
+[08Feb2026 00:10:39.566] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/Team$CollisionRule
+[08Feb2026 00:10:39.580] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/NetworkEvent$RegistrationChangeType
+[08Feb2026 00:10:39.901] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/math/vector/Orientation
+[08Feb2026 00:10:39.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/TriplePermutation
+[08Feb2026 00:10:40.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/controller/MovementController$Action
+[08Feb2026 00:10:40.114] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/memory/MemoryModuleStatus
+[08Feb2026 00:10:40.115] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/Task$Status
+[08Feb2026 00:10:40.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/MultiTask$Ordering
+[08Feb2026 00:10:40.127] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/brain/task/MultiTask$RunType
+[08Feb2026 00:11:39.199] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: A single server tick took 60.00 seconds (should be max 0.05)
+[08Feb2026 00:11:39.200] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: Considering it to be crashed, server will forcibly shutdown.
+[08Feb2026 00:11:39.312] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ef316e3a-22d0-43da-b356-69adc3cb6d8d
+[08Feb2026 00:11:39.325] [Server Watchdog/INFO] [STDOUT/]: [net.minecraft.util.registry.Bootstrap:func_179870_a:123]: Crash report:
+---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+
+Time: 2/8/26, 12:11 AM
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
+	at jdk.internal.misc.Unsafe.park(Native Method) ~[?:?] {re:classloading}
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234) ~[?:?] {re:mixin}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_223705_bi(SourceFile:521) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:129) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.world.server.ServerChunkProvider.getChunkBlocking(ServerChunkProvider.java:1749) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.ServerChunkManagerMixin,pl:mixin:APP:smoothchunk.mixins.json:ServerChunkCacheMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderThreadsMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ServerChunkProvider.func_212849_a_(ServerChunkProvider.java:1645) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.ServerChunkManagerMixin,pl:mixin:APP:smoothchunk.mixins.json:ServerChunkCacheMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderThreadsMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.World.getChunkLithium(World.java:2213) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:beefix:World,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.WorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.WorldMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.WorldMixin,pl:mixin:APP:ksyxis.mixins.json:LevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.LevelMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.World.func_212866_a_(World.java:2199) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:beefix:World,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.WorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.WorldMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.WorldMixin,pl:mixin:APP:ksyxis.mixins.json:LevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.LevelMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.World.func_180495_p(World.java:379) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:beefix:World,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.WorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.WorldMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.WorldMixin,pl:mixin:APP:ksyxis.mixins.json:LevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.LevelMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at com.corosus.zombieawareness.ZAUtil.canSpawnTrace(ZAUtil.java:620) ~[zombieawareness:1.16.5-1.12] {re:mixin,re:classloading}
+	at com.corosus.zombieawareness.ZAUtil.hookSoundEvent(ZAUtil.java:469) ~[zombieawareness:1.16.5-1.12] {re:mixin,re:classloading}
+	at net.minecraft.world.server.ServerWorld.redirect$zjh000$broadcast(ServerWorld.java:6546) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:opotato.mixins.json:api.ServerLevelMixin,pl:mixin:APP:performant.mixins.json:world.ServerWorldBlockUpdateMixin,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.world_ticking.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:entity.inactive_navigations.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:world.tick_scheduler.ServerWorldMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.entity_load_deadlock.ServerLevelMixin,pl:mixin:APP:zombieawareness.mixins.json:MixinPlaySound,pl:mixin:APP:zombieawareness.mixins.json:MixinLevelEvent,pl:mixin:APP:ksyxis.mixins.json:ServerLevelMixin,pl:mixin:APP:duplicationless.mixins.json:event.ServerLevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ServerLevelMixin,pl:mixin:APP:potatocurrent.mixins.json:ServerLevelMixin,pl:mixin:APP:performant.mixins.json:world.ServerWorldMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ServerWorld.func_184148_a(ServerWorld.java:995) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:opotato.mixins.json:api.ServerLevelMixin,pl:mixin:APP:performant.mixins.json:world.ServerWorldBlockUpdateMixin,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.world_ticking.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:entity.inactive_navigations.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:world.tick_scheduler.ServerWorldMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.entity_load_deadlock.ServerLevelMixin,pl:mixin:APP:zombieawareness.mixins.json:MixinPlaySound,pl:mixin:APP:zombieawareness.mixins.json:MixinLevelEvent,pl:mixin:APP:ksyxis.mixins.json:ServerLevelMixin,pl:mixin:APP:duplicationless.mixins.json:event.ServerLevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ServerLevelMixin,pl:mixin:APP:potatocurrent.mixins.json:ServerLevelMixin,pl:mixin:APP:performant.mixins.json:world.ServerWorldMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.Entity.func_184185_a(Entity.java:885) ~[?:?] {re:computing_frames,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:client.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.fast_suffocation_check.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.skip_fire_check.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.stream_entity_collisions_lazily.EntityMixin,pl:mixin:APP:mixins.artifacts.json:item.aquadashers.EntityMixin,pl:mixin:APP:mixins.artifacts.json:item.umbrella.EntityMixin,pl:mixin:APP:relics.mixins.json:MixinEntity,pl:mixin:APP:duplicationless.mixins.json:data.EntityMixin,pl:mixin:APP:duplicationless.mixins.json:event.EntityMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityMixin,pl:mixin:APP:expandability.mixins.json:fluidcollision.EntityMixin,pl:mixin:APP:expandability.mixins.json:swimming.EntityMixin,pl:mixin:APP:performant.mixins.json:entity.EntityMixin,pl:mixin:APP:performant.mixins.json:entity.EntityUpdateMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.item.ItemFrameEntity.func_174864_a(SourceFile:277) ~[?:?] {re:mixin,xf:fml:forge:filled_map.1,re:classloading,xf:fml:forge:filled_map.1,pl:mixin:APP:lithium.mixins.json:entity.replace_entitytype_predicates.ItemFrameEntityMixin,pl:mixin:A}
+	at net.minecraft.entity.item.ItemFrameEntity.func_70037_a(SourceFile:354) ~[?:?] {re:mixin,xf:fml:forge:filled_map.1,re:classloading,xf:fml:forge:filled_map.1,pl:mixin:APP:lithium.mixins.json:entity.replace_entitytype_predicates.ItemFrameEntityMixin,pl:mixin:A}
+	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1494) ~[?:?] {re:computing_frames,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:client.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.fast_suffocation_check.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.skip_fire_check.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.stream_entity_collisions_lazily.EntityMixin,pl:mixin:APP:mixins.artifacts.json:item.aquadashers.EntityMixin,pl:mixin:APP:mixins.artifacts.json:item.umbrella.EntityMixin,pl:mixin:APP:relics.mixins.json:MixinEntity,pl:mixin:APP:duplicationless.mixins.json:data.EntityMixin,pl:mixin:APP:duplicationless.mixins.json:event.EntityMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityMixin,pl:mixin:APP:expandability.mixins.json:fluidcollision.EntityMixin,pl:mixin:APP:expandability.mixins.json:swimming.EntityMixin,pl:mixin:APP:performant.mixins.json:entity.EntityMixin,pl:mixin:APP:performant.mixins.json:entity.EntityUpdateMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType.func_220329_a_(EntityType.java:458) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:api.EntityTypeMixin,pl:mixin:APP:duplicationless.mixins.json:registry.EntityTypeMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityTypeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType$$Lambda$6675/0x00000008412f7040.accept(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.Util.func_215077_a(Util.java:318) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.boost_worker_count.UtilMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.thread_priorities.UtilMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:api.EntityTypeMixin,pl:mixin:APP:duplicationless.mixins.json:registry.EntityTypeMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityTypeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:api.EntityTypeMixin,pl:mixin:APP:duplicationless.mixins.json:registry.EntityTypeMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityTypeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:api.EntityTypeMixin,pl:mixin:APP:duplicationless.mixins.json:registry.EntityTypeMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityTypeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:radon.mixins.json:world.MixinChunkSerializer,pl:mixin:APP:ferritecore.chunknbt.mixin.json:ChunkSerializerMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkSerializerMixin,pl:mixin:A}
+	at net.minecraft.world.chunk.storage.ChunkSerializer.md4cd649$lambda$replacePostLoad$0$0(ChunkSerializer.java:1082) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:radon.mixins.json:world.MixinChunkSerializer,pl:mixin:APP:ferritecore.chunknbt.mixin.json:ChunkSerializerMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkSerializerMixin,pl:mixin:A}
+	at net.minecraft.world.chunk.storage.ChunkSerializer$$Lambda$6235/0x0000000841217c40.accept(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.entity_load_deadlock.ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:radon.mixins.json:world.MixinThreadedAnvilChunkStorage,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerChunksAccessor,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerUpdatePlayerPosMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ChunkManager$$Lambda$6277/0x000000084122b040.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?] {re:mixin,re:classloading}
+	at com.mojang.datafixers.util.Either$$Lambda$6278/0x000000084122b440.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?] {re:classloading}
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?] {re:mixin,re:classloading}
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.entity_load_deadlock.ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:radon.mixins.json:world.MixinThreadedAnvilChunkStorage,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerChunksAccessor,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerUpdatePlayerPosMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ChunkManager$$Lambda$6274/0x000000084122a440.apply(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?] {}
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:lithium.mixins.json:world.chunk_task_system.ChunkTaskPrioritySystemMixin,pl:mixin:A}
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter$$Lambda$6212/0x0000000841202c40.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.ServerChunkManagerMixin,pl:mixin:APP:smoothchunk.mixins.json:ServerChunkCacheMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderThreadsMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer$$Lambda$5817/0x00000008410fec40.run(Unknown Source) ~[?:?] {}
+	at java.lang.Thread.run(Thread.java:829) [?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at jdk.internal.misc.Unsafe.park(Native Method) ~[?:?] {re:classloading,re:classloading}
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234) ~[?:?] {re:mixin}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_223705_bi(SourceFile:521) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:129) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.world.server.ServerChunkProvider.getChunkBlocking(ServerChunkProvider.java:1749) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.ServerChunkManagerMixin,pl:mixin:APP:smoothchunk.mixins.json:ServerChunkCacheMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderThreadsMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ServerChunkProvider.func_212849_a_(ServerChunkProvider.java:1645) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.ServerChunkManagerMixin,pl:mixin:APP:smoothchunk.mixins.json:ServerChunkCacheMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderThreadsMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.World.getChunkLithium(World.java:2213) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:beefix:World,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.WorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.WorldMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.WorldMixin,pl:mixin:APP:ksyxis.mixins.json:LevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.LevelMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.World.func_212866_a_(World.java:2199) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:beefix:World,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.WorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.WorldMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.WorldMixin,pl:mixin:APP:ksyxis.mixins.json:LevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.LevelMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.World.func_180495_p(World.java:379) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,xf:fml:beefix:World,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:beefix:World,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.WorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.WorldMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.WorldMixin,pl:mixin:APP:ksyxis.mixins.json:LevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.LevelMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at com.corosus.zombieawareness.ZAUtil.canSpawnTrace(ZAUtil.java:620) ~[zombieawareness:1.16.5-1.12] {re:mixin,re:classloading}
+	at com.corosus.zombieawareness.ZAUtil.hookSoundEvent(ZAUtil.java:469) ~[zombieawareness:1.16.5-1.12] {re:mixin,re:classloading}
+	at net.minecraft.world.server.ServerWorld.redirect$zjh000$broadcast(ServerWorld.java:6546) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:opotato.mixins.json:api.ServerLevelMixin,pl:mixin:APP:performant.mixins.json:world.ServerWorldBlockUpdateMixin,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.world_ticking.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:entity.inactive_navigations.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:world.tick_scheduler.ServerWorldMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.entity_load_deadlock.ServerLevelMixin,pl:mixin:APP:zombieawareness.mixins.json:MixinPlaySound,pl:mixin:APP:zombieawareness.mixins.json:MixinLevelEvent,pl:mixin:APP:ksyxis.mixins.json:ServerLevelMixin,pl:mixin:APP:duplicationless.mixins.json:event.ServerLevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ServerLevelMixin,pl:mixin:APP:potatocurrent.mixins.json:ServerLevelMixin,pl:mixin:APP:performant.mixins.json:world.ServerWorldMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ServerWorld.func_184148_a(ServerWorld.java:995) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:opotato.mixins.json:api.ServerLevelMixin,pl:mixin:APP:performant.mixins.json:world.ServerWorldBlockUpdateMixin,pl:mixin:APP:lithium.mixins.json:ai.nearby_entity_tracking.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_random.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:alloc.world_ticking.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:entity.inactive_navigations.ServerWorldMixin,pl:mixin:APP:lithium.mixins.json:world.tick_scheduler.ServerWorldMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.entity_load_deadlock.ServerLevelMixin,pl:mixin:APP:zombieawareness.mixins.json:MixinPlaySound,pl:mixin:APP:zombieawareness.mixins.json:MixinLevelEvent,pl:mixin:APP:ksyxis.mixins.json:ServerLevelMixin,pl:mixin:APP:duplicationless.mixins.json:event.ServerLevelMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ServerLevelMixin,pl:mixin:APP:potatocurrent.mixins.json:ServerLevelMixin,pl:mixin:APP:performant.mixins.json:world.ServerWorldMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.Entity.func_184185_a(Entity.java:885) ~[?:?] {re:computing_frames,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:client.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.fast_suffocation_check.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.skip_fire_check.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.stream_entity_collisions_lazily.EntityMixin,pl:mixin:APP:mixins.artifacts.json:item.aquadashers.EntityMixin,pl:mixin:APP:mixins.artifacts.json:item.umbrella.EntityMixin,pl:mixin:APP:relics.mixins.json:MixinEntity,pl:mixin:APP:duplicationless.mixins.json:data.EntityMixin,pl:mixin:APP:duplicationless.mixins.json:event.EntityMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityMixin,pl:mixin:APP:expandability.mixins.json:fluidcollision.EntityMixin,pl:mixin:APP:expandability.mixins.json:swimming.EntityMixin,pl:mixin:APP:performant.mixins.json:entity.EntityMixin,pl:mixin:APP:performant.mixins.json:entity.EntityUpdateMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.item.ItemFrameEntity.func_174864_a(SourceFile:277) ~[?:?] {re:mixin,xf:fml:forge:filled_map.1,re:classloading,xf:fml:forge:filled_map.1,pl:mixin:APP:lithium.mixins.json:entity.replace_entitytype_predicates.ItemFrameEntityMixin,pl:mixin:A}
+	at net.minecraft.entity.item.ItemFrameEntity.func_70037_a(SourceFile:354) ~[?:?] {re:mixin,xf:fml:forge:filled_map.1,re:classloading,xf:fml:forge:filled_map.1,pl:mixin:APP:lithium.mixins.json:entity.replace_entitytype_predicates.ItemFrameEntityMixin,pl:mixin:A}
+	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1494) ~[?:?] {re:computing_frames,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:client.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.fast_suffocation_check.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.skip_fire_check.EntityMixin,pl:mixin:APP:lithium.mixins.json:entity.stream_entity_collisions_lazily.EntityMixin,pl:mixin:APP:mixins.artifacts.json:item.aquadashers.EntityMixin,pl:mixin:APP:mixins.artifacts.json:item.umbrella.EntityMixin,pl:mixin:APP:relics.mixins.json:MixinEntity,pl:mixin:APP:duplicationless.mixins.json:data.EntityMixin,pl:mixin:APP:duplicationless.mixins.json:event.EntityMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityMixin,pl:mixin:APP:expandability.mixins.json:fluidcollision.EntityMixin,pl:mixin:APP:expandability.mixins.json:swimming.EntityMixin,pl:mixin:APP:performant.mixins.json:entity.EntityMixin,pl:mixin:APP:performant.mixins.json:entity.EntityUpdateMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType.func_220329_a_(EntityType.java:458) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:api.EntityTypeMixin,pl:mixin:APP:duplicationless.mixins.json:registry.EntityTypeMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityTypeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType$$Lambda$6675/0x00000008412f7040.accept(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.Util.func_215077_a(Util.java:318) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.boost_worker_count.UtilMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.thread_priorities.UtilMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:api.EntityTypeMixin,pl:mixin:APP:duplicationless.mixins.json:registry.EntityTypeMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityTypeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:api.EntityTypeMixin,pl:mixin:APP:duplicationless.mixins.json:registry.EntityTypeMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityTypeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:api.EntityTypeMixin,pl:mixin:APP:duplicationless.mixins.json:registry.EntityTypeMixin,pl:mixin:APP:doespotatotick.mixins.json:impl.ext.EntityTypeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:radon.mixins.json:world.MixinChunkSerializer,pl:mixin:APP:ferritecore.chunknbt.mixin.json:ChunkSerializerMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkSerializerMixin,pl:mixin:A}
+	at net.minecraft.world.chunk.storage.ChunkSerializer.md4cd649$lambda$replacePostLoad$0$0(ChunkSerializer.java:1082) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:radon.mixins.json:world.MixinChunkSerializer,pl:mixin:APP:ferritecore.chunknbt.mixin.json:ChunkSerializerMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkSerializerMixin,pl:mixin:A}
+	at net.minecraft.world.chunk.storage.ChunkSerializer$$Lambda$6235/0x0000000841217c40.accept(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.entity_load_deadlock.ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:radon.mixins.json:world.MixinThreadedAnvilChunkStorage,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerChunksAccessor,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerUpdatePlayerPosMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ChunkManager$$Lambda$6277/0x000000084122b040.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?] {re:mixin,re:classloading}
+	at com.mojang.datafixers.util.Either$$Lambda$6278/0x000000084122b440.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?] {re:classloading}
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?] {re:mixin,re:classloading}
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.entity_load_deadlock.ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:radon.mixins.json:world.MixinThreadedAnvilChunkStorage,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerChunksAccessor,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ChunkManagerUpdatePlayerPosMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.world.server.ChunkManager$$Lambda$6274/0x000000084122a440.apply(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?] {}
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:lithium.mixins.json:world.chunk_task_system.ChunkTaskPrioritySystemMixin,pl:mixin:A}
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter$$Lambda$6212/0x0000000841202c40.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderMixin,pl:mixin:APP:lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin,pl:mixin:APP:lithium.mixins.json:world.chunk_access.ServerChunkManagerMixin,pl:mixin:APP:smoothchunk.mixins.json:ServerChunkCacheMixin,pl:mixin:APP:performant.mixins.json:world.chunk.ServerChunkProviderThreadsMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.fix_loop_spin_waiting.BlockableEventLoopMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:opotato.mixins.json:opotato.minecraft.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:core.MinecraftServerMixin,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin,pl:mixin:APP:francium.mixins.json:common.RandomInitMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+Mixins in Heaven:
+	net.minecraft.util.concurrent.ThreadTaskExecutor:
+		org.embeddedt.modernfix.common.mixin.perf.fix_loop_spin_waiting.BlockableEventLoopMixin (modernfix-common.mixins.json)
+	net.minecraft.world.server.ServerChunkProvider:
+		me.jellysquid.mods.lithium.mixin.alloc.chunk_ticking.ServerChunkManagerMixin (lithium.mixins.json)
+		com.smoothchunk.mixin.ServerChunkCacheMixin (smoothchunk.mixins.json)
+		com.performant.coremod.mixin.world.chunk.ServerChunkProviderThreadsMixin (performant.mixins.json)
+		me.jellysquid.mods.lithium.mixin.world.chunk_access.ServerChunkManagerMixin (lithium.mixins.json)
+		com.performant.coremod.mixin.world.chunk.ServerChunkProviderMixin (performant.mixins.json)
+	net.minecraft.world.World:
+		me.jellysquid.mods.lithium.mixin.ai.nearby_entity_tracking.WorldMixin (lithium.mixins.json)
+		ru.vidtu.ksyxis.mixins.LevelMixin (ksyxis.mixins.json)
+		me.jellysquid.mods.lithium.mixin.world.chunk_access.WorldMixin (lithium.mixins.json)
+		me.jellysquid.mods.lithium.mixin.alloc.chunk_random.WorldMixin (lithium.mixins.json)
+		com.teampotato.francium.mixin.common.RandomInitMixin (francium.mixins.json)
+		me.kall.doespotatotick.mixin.impl.ext.LevelMixin (doespotatotick.mixins.json)
+	net.minecraft.world.server.ServerWorld:
+		me.jellysquid.mods.lithium.mixin.alloc.world_ticking.ServerWorldMixin (lithium.mixins.json)
+		com.corosus.zombieawareness.mixin.MixinLevelEvent (zombieawareness.mixins.json)
+		ru.vidtu.ksyxis.mixins.ServerLevelMixin (ksyxis.mixins.json)
+		me.jellysquid.mods.lithium.mixin.alloc.chunk_random.ServerWorldMixin (lithium.mixins.json)
+		org.embeddedt.modernfix.forge.mixin.bugfix.entity_load_deadlock.ServerLevelMixin (modernfix-forge.mixins.json)
+		me.jellysquid.mods.lithium.mixin.world.tick_scheduler.ServerWorldMixin (lithium.mixins.json)
+		com.performant.coremod.mixin.world.ServerWorldMixin (performant.mixins.json)
+		me.jellysquid.mods.lithium.mixin.entity.inactive_navigations.ServerWorldMixin (lithium.mixins.json)
+		me.kall.duplicationless.mixin.event.ServerLevelMixin (duplicationless.mixins.json)
+		org.embeddedt.modernfix.common.mixin.perf.cache_strongholds.ServerLevelMixin (modernfix-common.mixins.json)
+		me.kall.doespotatotick.mixin.impl.ServerLevelMixin (doespotatotick.mixins.json)
+		com.corosus.zombieawareness.mixin.MixinPlaySound (zombieawareness.mixins.json)
+		com.teampotato.potatocurrent.mixin.ServerLevelMixin (potatocurrent.mixins.json)
+		me.jellysquid.mods.lithium.mixin.ai.nearby_entity_tracking.ServerWorldMixin (lithium.mixins.json)
+		com.teampotato.opotato.mixin.api.ServerLevelMixin (opotato.mixins.json)
+		com.performant.coremod.mixin.world.ServerWorldBlockUpdateMixin (performant.mixins.json)
+		org.embeddedt.modernfix.common.mixin.bugfix.chunk_deadlock.ServerLevelMixin (modernfix-common.mixins.json)
+	net.minecraft.entity.Entity:
+		me.jellysquid.mods.lithium.mixin.entity.stream_entity_collisions_lazily.EntityMixin (lithium.mixins.json)
+		artifacts.mixin.item.aquadashers.EntityMixin (mixins.artifacts.json)
+		me.kall.duplicationless.mixin.event.EntityMixin (duplicationless.mixins.json)
+		com.teampotato.francium.mixin.common.RandomInitMixin (francium.mixins.json)
+		artifacts.mixin.item.umbrella.EntityMixin (mixins.artifacts.json)
+		it.hurts.sskirillss.relics.mixin.MixinEntity (relics.mixins.json)
+		me.kall.doespotatotick.mixin.impl.ext.EntityMixin (doespotatotick.mixins.json)
+		com.performant.coremod.mixin.entity.EntityUpdateMixin (performant.mixins.json)
+		be.florens.expandability.mixin.fluidcollision.EntityMixin (expandability.mixins.json)
+		com.performant.coremod.mixin.entity.EntityMixin (performant.mixins.json)
+		me.kall.duplicationless.mixin.data.EntityMixin (duplicationless.mixins.json)
+		me.jellysquid.mods.lithium.mixin.entity.skip_fire_check.EntityMixin (lithium.mixins.json)
+		be.florens.expandability.mixin.swimming.EntityMixin (expandability.mixins.json)
+		me.jellysquid.mods.lithium.mixin.entity.fast_suffocation_check.EntityMixin (lithium.mixins.json)
+		com.performant.coremod.mixin.client.EntityMixin (performant.mixins.json)
+	net.minecraft.entity.item.ItemFrameEntity:
+		me.jellysquid.mods.lithium.mixin.entity.replace_entitytype_predicates.ItemFrameEntityMixin (lithium.mixins.json)
+	net.minecraft.entity.EntityType:
+		com.teampotato.opotato.mixin.api.EntityTypeMixin (opotato.mixins.json)
+		me.kall.doespotatotick.mixin.impl.ext.EntityTypeMixin (doespotatotick.mixins.json)
+		me.kall.duplicationless.mixin.registry.EntityTypeMixin (duplicationless.mixins.json)
+	net.minecraft.util.Util:
+		org.embeddedt.modernfix.common.mixin.perf.thread_priorities.UtilMixin (modernfix-common.mixins.json)
+		org.embeddedt.modernfix.common.mixin.perf.boost_worker_count.UtilMixin (modernfix-common.mixins.json)
+	net.minecraft.world.chunk.storage.ChunkSerializer:
+		net.caffeinemc.phosphor.mixin.world.MixinChunkSerializer (radon.mixins.json)
+		malte0811.ferritecore.mixin.chunknbt.ChunkSerializerMixin (ferritecore.chunknbt.mixin.json)
+		com.performant.coremod.mixin.world.chunk.ChunkSerializerMixin (performant.mixins.json)
+	net.minecraft.world.chunk.Chunk:
+		me.jellysquid.mods.lithium.mixin.ai.nearby_entity_tracking.WorldChunkMixin (lithium.mixins.json)
+		org.embeddedt.modernfix.forge.mixin.bugfix.entity_load_deadlock.LevelChunkMixin (modernfix-forge.mixins.json)
+		net.caffeinemc.phosphor.mixin.chunk.MixinWorldChunk (radon.mixins.json)
+		me.jellysquid.mods.lithium.mixin.world.chunk_inline_block_access.WorldChunkMixin (lithium.mixins.json)
+		org.embeddedt.modernfix.common.mixin.perf.nuke_empty_chunk_sections.MixinChunk (modernfix-common.mixins.json)
+		com.smoothchunk.mixin.ChunkAccessMixin (smoothchunk.mixins.json)
+	net.minecraft.world.server.ChunkManager:
+		org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.ChunkMapMixin (modernfix-common.mixins.json)
+		com.performant.coremod.mixin.world.chunk.ChunkManagerMixin (performant.mixins.json)
+		com.smoothchunk.mixin.ChunkMapMixin (smoothchunk.mixins.json)
+		com.performant.coremod.mixin.world.chunk.ChunkManagerChunksAccessor (performant.mixins.json)
+		org.embeddedt.modernfix.forge.mixin.bugfix.entity_load_deadlock.ChunkMapMixin (modernfix-forge.mixins.json)
+		com.performant.coremod.mixin.world.chunk.ChunkManagerUpdatePlayerPosMixin (performant.mixins.json)
+		net.caffeinemc.phosphor.mixin.world.MixinThreadedAnvilChunkStorage (radon.mixins.json)
+	net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter:
+		me.jellysquid.mods.lithium.mixin.world.chunk_task_system.ChunkTaskPrioritySystemMixin (lithium.mixins.json)
+	net.minecraft.server.MinecraftServer:
+		com.teampotato.opotato.mixin.opotato.minecraft.MinecraftServerMixin (opotato.mixins.json)
+		org.embeddedt.modernfix.common.mixin.core.MinecraftServerMixin (modernfix-common.mixins.json)
+		ru.vidtu.ksyxis.mixins.MinecraftServerMixin (ksyxis.mixins.json)
+		com.teampotato.francium.mixin.common.RandomInitMixin (francium.mixins.json)
+		org.embeddedt.modernfix.common.mixin.perf.dedicated_reload_executor.MinecraftServerMixin (modernfix-common.mixins.json)
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
+	at java.base@11.0.29/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@11.0.29/java.lang.ref.Reference.processPendingReferences(Reference.java:241)
+	at java.base@11.0.29/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)
+
+
+"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@865732d
+	at java.base@11.0.29/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@865732d
+	at java.base@11.0.29/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@11.0.29/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.base@11.0.29/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)
+
+
+"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=9 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@6a28c51
+	at java.base@11.0.29/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@6a28c51
+	at java.base@11.0.29/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@11.0.29/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+	at java.base@11.0.29/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:161)
+
+
+"ForkJoinPool.commonPool-worker-3" daemon prio=5 Id=17 WAITING on java.util.concurrent.ForkJoinPool@29d185d
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@29d185d
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+	at java.base@11.0.29/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
+	at java.base@11.0.29/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+
+"Thread-0" daemon prio=5 Id=18 TIMED_WAITING
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:357)
+	at org.embeddedt.modernfix.forge.config.NightConfigWatchThrottler$1$1.iterator(NightConfigWatchThrottler.java:47)
+	at app//com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:162)
+
+
+"FileSystemWatchService" daemon prio=5 Id=19 RUNNABLE (in native)
+	at java.base@11.0.29/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@11.0.29/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"Timer hack thread" daemon prio=5 Id=21 TIMED_WAITING
+	at java.base@11.0.29/java.lang.Thread.sleep(Native Method)
+	at net.minecraft.util.Util$6.run(Util.java:505)
+
+
+"modloading-worker-1" daemon prio=5 Id=22 WAITING on java.util.concurrent.ForkJoinPool@479f866a
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@479f866a
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+	at java.base@11.0.29/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
+	at java.base@11.0.29/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+
+"FileSystemWatchService" daemon prio=5 Id=24 RUNNABLE (in native)
+	at java.base@11.0.29/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@11.0.29/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"FileSystemWatchService" daemon prio=5 Id=25 RUNNABLE (in native)
+	at java.base@11.0.29/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@11.0.29/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"Worker-Main-1" daemon prio=4 Id=26 WAITING on java.util.concurrent.ForkJoinPool@644079af
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@644079af
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+	at java.base@11.0.29/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
+	at java.base@11.0.29/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+
+"Snooper Timer" daemon prio=5 Id=28 WAITING on java.util.TaskQueue@7612a172
+	at java.base@11.0.29/java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@7612a172
+	at java.base@11.0.29/java.lang.Object.wait(Object.java:328)
+	at java.base@11.0.29/java.util.TimerThread.mainLoop(Timer.java:527)
+	at java.base@11.0.29/java.util.TimerThread.run(Timer.java:506)
+
+
+"Server thread" prio=5 Id=27 TIMED_WAITING on java.lang.String@1c27001d
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@1c27001d
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_223705_bi(SourceFile:521)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:129)
+	at net.minecraft.world.server.ServerChunkProvider.getChunkBlocking(ServerChunkProvider.java:1749)
+	at net.minecraft.world.server.ServerChunkProvider.func_212849_a_(ServerChunkProvider.java:1645)
+	at net.minecraft.world.World.getChunkLithium(World.java:2213)
+	at net.minecraft.world.World.func_212866_a_(World.java:2199)
+	...
+
+
+"DestroyJavaVM" prio=5 Id=30 RUNNABLE
+
+
+"Server console handler" daemon prio=5 Id=31 RUNNABLE
+	at java.base@11.0.29/java.io.FileInputStream.read0(Native Method)
+	at java.base@11.0.29/java.io.FileInputStream.read(FileInputStream.java:231)
+	at app//org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+	at app//org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+	at app//org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+	at app//org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+	at app//org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
+	at app//org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+	...
+
+
+"ObjectCleanerThread" daemon prio=1 Id=33 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@27b07925
+	at java.base@11.0.29/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@27b07925
+	at java.base@11.0.29/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at app//io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at app//io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=34 RUNNABLE (in native)
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"FileSystemWatchService" daemon prio=5 Id=35 RUNNABLE (in native)
+	at java.base@11.0.29/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@11.0.29/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"ChunkLoaderWorker-0" daemon prio=5 Id=36 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@40daf17d
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@40daf17d
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+	at java.base@11.0.29/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
+	at java.base@11.0.29/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:433)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1054)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"Server Watchdog" daemon prio=5 Id=39 RUNNABLE
+	at java.management@11.0.29/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@11.0.29/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
+	at java.management@11.0.29/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:516)
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:41)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"Thread-7" daemon prio=2 Id=40 RUNNABLE
+	at java.base@11.0.29/java.lang.Thread.sleep(Native Method)
+	at com.performant.coremod.entity.threading.MoveThread.run(MoveThread.java:51)
+
+
+"Thread-8" daemon prio=2 Id=41 TIMED_WAITING
+	at java.base@11.0.29/java.lang.Thread.sleep(Native Method)
+	at com.performant.coremod.entity.threading.MoveThread.run(MoveThread.java:51)
+
+
+"Thread-9" daemon prio=2 Id=42 TIMED_WAITING
+	at java.base@11.0.29/java.lang.Thread.sleep(Native Method)
+	at com.performant.coremod.entity.threading.MoveThread.run(MoveThread.java:51)
+
+
+"Thread-10" daemon prio=2 Id=43 TIMED_WAITING
+	at java.base@11.0.29/java.lang.Thread.sleep(Native Method)
+	at com.performant.coremod.entity.threading.MoveThread.run(MoveThread.java:51)
+
+
+"Thread-11" daemon prio=2 Id=44 TIMED_WAITING
+	at java.base@11.0.29/java.lang.Thread.sleep(Native Method)
+	at com.performant.coremod.entity.threading.ActionThread.run(ActionThread.java:44)
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=47 RUNNABLE (in native)
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=48 RUNNABLE
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=49 RUNNABLE
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@11.0.29/java.lang.Thread.run(Thread.java:829)
+
+
+"IO-Worker-6" daemon prio=5 Id=50 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	...
+
+
+"IO-Worker-7" daemon prio=5 Id=51 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	...
+
+
+"IO-Worker-8" prio=5 Id=52 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	...
+
+
+"IO-Worker-9" prio=5 Id=53 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	...
+
+
+"IO-Worker-10" prio=5 Id=54 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2320c125
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	...
+
+
+"process reaper" daemon prio=10 Id=55 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@7230ab4
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@7230ab4
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	...
+
+
+"process reaper" daemon prio=10 Id=56 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@7230ab4
+	at java.base@11.0.29/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@7230ab4
+	at java.base@11.0.29/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@11.0.29/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base@11.0.29/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	...
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:56) [?:?] {re:classloading}
+	at java.lang.Thread.run(Thread.java:829) [?:?] {re:mixin}
+
+Mixins in Heaven: None found
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 6 [minecraft:villager:3,minecraft:player:1,minecraft:husk:1,minecraft:boat:1], block_entities: 18 [minecraft:hopper:10,minecraft:chest:8], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 1339,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 11.0.29, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1583661056 bytes (1510 MB) / 2151677952 bytes (2052 MB) up to 6442450944 bytes (6144 MB)
+	CPUs: 2
+	JVM Flags: 2 total; -Xms2G -Xmx6G
+	ModLauncher: 8.1.3+8.1.3+main-8.1.x.c94d18ec
+	ModLauncher launch target: fmlserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/mixin-0.8.4.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.2.42.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.42.jar runtime_enum_extender PLUGINSERVICE 
+		/forge-1.16.5-36.2.42.jar capability_inject_definalize PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.2.42.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
+		/redirector-5.0.0.jar redirector TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.2.42.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.2
+	Forge: net.minecraftforge:36.2.42
+	FML Language Providers: 
+		javafml@36.2
+		minecraft@1
+	Mod List: 
+		cgm-1.2.6-1.16.5.jar                              |MrCrayfish's Gun Mod          |cgm                           |1.2.6               |DONE      |Manifest: NOSIGNATURE
+		limitedchunks-2.1.jar                             |Limited chunk loading mod     |limitedchunks                 |1.8                 |DONE      |Manifest: NOSIGNATURE
+		caesium-forge-1.16.5-0.6.6.jar                    |Lithium (Forge)               |lithium                       |0.6.6+rev.1         |DONE      |Manifest: NOSIGNATURE
+		opotato-1.16.5-2.5.6.jar                          |Opotato                       |opotato                       |1.16.5-2.5.6        |DONE      |Manifest: NOSIGNATURE
+		nerb-1.16.5-0.3.1-FORGE.jar                       |Not Enough Recipe Book        |nerb                          |0.3.1               |DONE      |Manifest: NOSIGNATURE
+		entitycollisionfpsfix-1.16-1.0.1.jar              |Entity Collision FPS Fix      |entitycollisionfpsfix         |1.0.1               |DONE      |Manifest: NOSIGNATURE
+		connectivity-2.4-1.16.5.jar                       |Connectivity Mod              |connectivity                  |2.4-1.16.5          |DONE      |Manifest: NOSIGNATURE
+		Waystones_1.16.5-7.6.4.jar                        |Waystones                     |waystones                     |7.6.4               |DONE      |Manifest: NOSIGNATURE
+		FastSuite-1.16.4-1.1.1.jar                        |FastSuite                     |fastsuite                     |1.1.1               |DONE      |Manifest: NOSIGNATURE
+		journeymap-1.16.5-5.8.6.jar                       |Journeymap                    |journeymap                    |5.8.6               |DONE      |Manifest: NOSIGNATURE
+		fastasyncworldsave-1.16.5-1.4.jar                 |fastasyncworldsave mod        |fastasyncworldsave            |1.16.5-1.4          |DONE      |Manifest: NOSIGNATURE
+		Placebo-1.16.5-4.7.1.jar                          |Placebo                       |placebo                       |4.7.1               |DONE      |Manifest: NOSIGNATURE
+		modernfix-forge-5.18.0+mc1.16.5.jar               |ModernFix                     |modernfix                     |5.18.0+mc1.16.5     |DONE      |Manifest: NOSIGNATURE
+		jei-1.16.5-7.8.0.1013.jar                         |Just Enough Items             |jei                           |7.8.0.1013          |DONE      |Manifest: NOSIGNATURE
+		citadel-1.8.1-1.16.5.jar                          |Citadel                       |citadel                       |1.8.1               |DONE      |Manifest: NOSIGNATURE
+		TravelersBackpack-1.16.5-5.4.51.jar               |Traveler's Backpack           |travelersbackpack             |5.4.51              |DONE      |Manifest: NOSIGNATURE
+		Artifacts-1.16.5-2.10.6.jar                       |Artifacts                     |artifacts                     |1.16.5-2.10.6       |DONE      |Manifest: NOSIGNATURE
+		compactxpbottles-1.16.5-1.3.3.jar                 |Compact Experience Bottles    |compactxpbottles              |1.3.2               |DONE      |Manifest: NOSIGNATURE
+		zombieawareness-1.16.5-1.12.jar                   |Zombie Awareness              |zombieawareness               |1.16.5-1.12         |DONE      |Manifest: NOSIGNATURE
+		additional-guns-0.8.0-1.16.5.jar                  |Additional Guns               |additionalguns                |0.8.0               |DONE      |Manifest: NOSIGNATURE
+		bottleyourxp_1.16.5-1.6.jar                       |Bottle Your Xp                |bottleyourxp                  |1.6                 |DONE      |Manifest: NOSIGNATURE
+		lazydfu-0.1.3.jar                                 |LazyDFU                       |lazydfu                       |0.1.3               |DONE      |Manifest: NOSIGNATURE
+		simpleplanes-1.16.5-4.6.0.jar                     |Simple Planes                 |simpleplanes                  |1.16.5-4.6.0        |DONE      |Manifest: NOSIGNATURE
+		BeeFix-1.16.2-1.0.7.jar                           |Bee Fix                       |beefix                        |1.0.7               |DONE      |Manifest: NOSIGNATURE
+		WegotRunners0.3a.jar                              |wegotrunnners                 |wegotrunnners                 |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		iceandfire-2.1.12-1.16.5-patch-1.jar              |Ice and Fire                  |iceandfire                    |2.1.12-1.16.5-patch-|DONE      |Manifest: NOSIGNATURE
+		The-Hordes-1.16.5-1.1.5c.jar                      |The Hordes                    |hordes                        |1.1.5c              |DONE      |Manifest: NOSIGNATURE
+		farsight-1.7.jar                                  |Farsight mod                  |farsight_view                 |1.7                 |DONE      |Manifest: NOSIGNATURE
+		FpsReducer-forge-1.24-mc1.16.5.jar                |FPS Reducer                   |fpsreducer                    |1.24-mc1.16.5       |DONE      |Manifest: NOSIGNATURE
+		forge-1.16.5-36.2.42-universal.jar                |Forge                         |forge                         |36.2.42             |DONE      |Manifest: 22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
+		embeddium-0.3.18+mc1.16.5.jar                     |Embeddium                     |embeddium                     |0.3.18+mc1.16.5     |DONE      |Manifest: NOSIGNATURE
+		forge-1.16.5-36.2.42-server.jar                   |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: NOSIGNATURE
+		smoothchunk1.16.5-2.0.jar                         |Smoothchunk mod               |smoothchunk                   |2.0                 |DONE      |Manifest: NOSIGNATURE
+		radon-0.8.0a.jar                                  |Radon                         |radon                         |0.8.0a              |DONE      |Manifest: NOSIGNATURE
+		lrarmor-0.1.jar                                   |LesRaisinsArmor               |lrarmor                       |0.1                 |DONE      |Manifest: NOSIGNATURE
+		CreativeCore_v2.2.1_mc1.16.5.jar                  |CreativeCore                  |creativecore                  |2.0.0               |DONE      |Manifest: NOSIGNATURE
+		Ksyxis-1.3.4.jar                                  |Ksyxis                        |ksyxis                        |1.3.4               |DONE      |Manifest: NOSIGNATURE
+		betterfpsdist-1.2.jar                             |betterfpsdist mod             |betterfpsdist                 |1.2                 |DONE      |Manifest: NOSIGNATURE
+		Zombie Mob drops 1.16.5 v3.jar                    |zombie drops                  |zombie_drops_                 |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		flywheel-1.16-0.2.5.jar                           |Flywheel                      |flywheel                      |1.16-0.2.5          |DONE      |Manifest: NOSIGNATURE
+		curios-forge-1.16.5-4.1.0.0.jar                   |Curios API                    |curios                        |1.16.5-4.1.0.0      |DONE      |Manifest: NOSIGNATURE
+		relics-1.16.5-0.3.4.4.jar                         |Relics                        |relics                        |0.3.4.4             |DONE      |Manifest: NOSIGNATURE
+		gravestone-1.16.5-1.0.7.jar                       |Gravestone Mod                |gravestone                    |1.16.5-1.0.7        |DONE      |Manifest: NOSIGNATURE
+		collective-1.16.5-5.49.jar                        |Collective                    |collective                    |5.49                |DONE      |Manifest: NOSIGNATURE
+		mobsunscreen-1.16.5-3.0.4.jar                     |Mob Sunscreen                 |mobsunscreen                  |1.16.5-3.0.4        |DONE      |Manifest: NOSIGNATURE
+		duplicationless-1.16.5-1.1.5.jar                  |Duplicationless               |duplicationless               |1.16.5-1.1.5        |DONE      |Manifest: NOSIGNATURE
+		performant-1.16.2-5-4.1m.jar                      |Performant                    |performant                    |3.73m               |DONE      |Manifest: NOSIGNATURE
+		doespotatotick-1.16.5-5.5.5.jar                   |DoesPotatoTick                |doespotatotick                |1.16.5-5.5.5        |DONE      |Manifest: NOSIGNATURE
+		fastquit-3.0.1+1.16.5forge.jar                    |Fastquit                      |fastquit                      |3.0.1+1.16.5forge   |DONE      |Manifest: NOSIGNATURE
+		obfuscate-0.6.3-1.16.5.jar                        |Obfuscate                     |obfuscate                     |0.6.3               |DONE      |Manifest: NOSIGNATURE
+		Atlas-Lib-1.16.5-1.1.3c.jar                       |Atlas Lib                     |atlaslib                      |1.1.3c              |DONE      |Manifest: NOSIGNATURE
+		embeddiumextras-1.16.5-1.12.5.jar                 |EmbeddiumExtras               |embeddiumextras               |1.16.5-1.12.5       |DONE      |Manifest: NOSIGNATURE
+		coroutil-forge-1.16.5-1.3.6.jar                   |CoroUtil                      |coroutil                      |1.16.5-1.3.6        |DONE      |Manifest: NOSIGNATURE
+		brrp-forge-0.8.1-1.16.5.jar                       |Better Runtime Resource Pack  |better_runtime_resource_pack  |0.8.1-1.16.5        |DONE      |Manifest: NOSIGNATURE
+		potatocurrent-1.16.5-0.0.1.jar                    |PotatoCurrent                 |potatocurrent                 |0.0.1               |DONE      |Manifest: NOSIGNATURE
+		ferritecore-2.1.1-forge.jar                       |Ferrite Core                  |ferritecore                   |2.1.1               |DONE      |Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		cloth-config-4.17.132-forge.jar                   |Cloth Config v4 API           |cloth-config                  |4.17.132            |DONE      |Manifest: NOSIGNATURE
+		NoChatLagForge-1.1.0-1.16.jar                     |NoChatLagForge                |nochatlagforge                |1.1.0-1.16          |DONE      |Manifest: NOSIGNATURE
+		dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar      |Dynamic FPS                   |dynamic_fps                   |3.4.3               |DONE      |Manifest: NOSIGNATURE
+		textrue_embeddium_options-0.1.2+mc1.16.5.jar      |TexTrue's Embeddium Options   |textrues_embeddium_options    |0.1.2+mc1.16.5      |DONE      |Manifest: NOSIGNATURE
+		francium-1.16.5-1.0.1.jar                         |Francium                      |francium                      |1.16.5-1.0.1        |DONE      |Manifest: NOSIGNATURE
+		expandability-2.0.1-forge.jar                     |ExpandAbility                 |expandability                 |2.0.1               |DONE      |Manifest: NOSIGNATURE
+		CosmeticArmorReworked-1.16.5-v5a.jar              |CosmeticArmorReworked         |cosmeticarmorreworked         |1.16.5-v5a          |DONE      |Manifest: 5e:ed:25:99:e4:44:14:c0:dd:89:c1:a9:4c:10:b5:0d:e4:b1:52:50:45:82:13:d8:d0:32:89:67:56:57:01:53
+		PlayerRevive_v2.0.0-pre04_mc1.16.5.jar            |PlayerRevive                  |playerrevive                  |2.0.0               |DONE      |Manifest: NOSIGNATURE
+		geckolib-forge-1.16.5-3.0.106.jar                 |GeckoLib                      |geckolib3                     |3.0.106             |DONE      |Manifest: NOSIGNATURE
+		dreadsteel-1.16.5-1.1.6.jar                       |Dreadsteel                    |dreadsteel                    |1.16.5-1.1.6        |DONE      |Manifest: NOSIGNATURE
+		responsiveshields-2.1-mc1.16.5.jar                |Responsive Shields            |responsiveshields             |2.1                 |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: ef316e3a-22d0-43da-b356-69adc3cb6d8d
+	Player Count: 1 / 5; [ServerPlayerEntity['iMapaxeSF'/1, l='ServerLevel[lol]', x=-4956.61, y=40.50, z=9747.60]]
+	Data Packs: vanilla, mod:forge, mod:citadel (incompatible), mod:iceandfire, mod:travelersbackpack (incompatible), mod:jei, mod:zombieawareness, mod:atlaslib, mod:coroutil, mod:wegotrunnners, mod:hordes (incompatible), mod:cloth-config (incompatible), mod:waystones (incompatible), mod:gravestone, mod:mobsunscreen (incompatible), mod:additionalguns, mod:obfuscate, mod:cgm, mod:compactxpbottles (incompatible), mod:bottleyourxp, mod:zombie_drops_, mod:collective, mod:limitedchunks (incompatible), mod:lithium (incompatible), mod:opotato, mod:nerb (incompatible), mod:connectivity, mod:fastsuite (incompatible), mod:journeymap (incompatible), mod:fastasyncworldsave (incompatible), mod:placebo (incompatible), mod:modernfix, mod:artifacts, mod:lazydfu, mod:simpleplanes, mod:beefix, mod:smoothchunk, mod:lrarmor, mod:creativecore, mod:ksyxis (incompatible), mod:curios, mod:relics, mod:duplicationless, mod:performant (incompatible), mod:doespotatotick, mod:potatocurrent, mod:ferritecore (incompatible), mod:francium, mod:expandability, mod:cosmeticarmorreworked (incompatible), mod:playerrevive, mod:geckolib3 (incompatible), mod:dreadsteel, mod:responsiveshields, mod:betterfpsdist, mod:radon (incompatible), mod:embeddium (incompatible), mod:nochatlagforge (incompatible), mod:farsight_view, mod:dynamic_fps (incompatible), mod:fpsreducer, mod:fastquit, mod:entitycollisionfpsfix (incompatible), mod:flywheel, mod:embeddiumextras, mod:better_runtime_resource_pack (incompatible), mod:textrues_embeddium_options
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+[08Feb2026 00:11:39.370] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog/]: This crash report has been saved to: /workspaces/losMIAyjohann/servidor_minecraft/./crash-reports/crash-2026-02-08_00.11.39-server.txt

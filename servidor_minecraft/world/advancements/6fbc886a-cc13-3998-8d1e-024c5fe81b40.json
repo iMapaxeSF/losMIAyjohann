@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-11 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-02-11 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2026-02-11 02:31:29 +0000",
+      "minecraft:stony_shore": "2026-02-11 02:30:45 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
